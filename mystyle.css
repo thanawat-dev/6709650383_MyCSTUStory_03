@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Kaushan+Script&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baskervville+SC&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('https://th.bing.com/th/id/OIP.2uOLTa6vmCOJf9W5gKYT4gHaE8?rs=1&pid=ImgDetMain');
+    background-repeat: repeat;
+    padding: 20px;
+}
+
+.abm {   
+    width: 100%;
+    height: 620px;
+    padding: 20px;
+    text-align: center;
+    color: #291200;
+    font-family: "Montserrat", sans-serif;
+}
+
+#thanawat {
+    width: 325px;
+    height: 325px;
+    border: 2px solid #291200;
+    padding: 5px;
+}
+
+h1 {
+    font-family: "Kaushan Script", cursive;
+    color: #291200;
+    font-size: 30pt;
+    font-weight: normal;
+    margin: 0px;
+}
+
+nav {
+    font-size: 12pt;
+    margin: 5px 0;
+}
+
+.aboutme {
+    font-size: 20pt;
+    font-weight: normal;
+    margin: 5px 0;
+}
+
+.par1 {
+    font-size: 13pt;
+    font-weight: normal;
+    margin: 5px 0;
+}
+
+.par2 {
+    font-size: 13pt;
+    font-weight: normal;
+    margin: 5px 0;
+}
+
+.par3 {
+    font-size: 13pt;
+    font-weight: normal;
+    margin: 5px 0;
+}
+
+.par4 {
+    font-size: 13pt;
+    font-weight: normal;
+    margin: 5px 0;
+}
+
+.par5 {
+    font-size: 13pt;
+    font-weight: normal;
+    margin: 5px 0;
+}
+
+.port {
+    font-size: 20pt;
+    font-weight: normal;
+    margin: 5px 0;
+}
+
+#tucheer65 {
+    width: 450px;
+    height: 300px;
+    border: 2px solid #291200;
+    padding: 5px;
+}
+
+.tucheer65 {
+    font-size: 13pt;
+    font-weight: normal;
+    margin: 5px 0;
+}
+
+#sesecu65 {
+    width: 450px;
+    height: 300px;
+    border: 2px solid #291200;
+    padding: 5px;
+}
+
+.sesecu65 {
+    font-size: 13pt;
+    font-weight: normal;
+    margin: 5px 0;
+}
+
+.contact {
+    font-size: 20pt;
+}
+
+.subcontact {
+    font-size: 15pt;
+    font-weight: normal;
+    font-family: "Baskervville SC", serif;
+}
+
+header {
+    position: sticky;
+    top: 0px;
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(207, 144, 35);
+    border: 1px solid gray;
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+}
+
+.mf {
+    width: 100%;
+    height: 620px;
+    padding: 20px;
+    text-align: center;
+    color: #291200;
+    font-family: "Montserrat", sans-serif;
+}
+
+#myfuture {
+    width: 400px;
+    height: 300px;
+    border: 2px solid #291200;
+    padding: 5px;
+    margin: 10px;
+}
+
+li {
+    text-align: left;
+    float: left;
+}
+
+.mj {
+    width: 100%;
+    height: 620px;
+    padding: 20px;
+    text-align: center;
+    color: #291200;
+    font-family: "Montserrat", sans-serif;
+}
+
+#myjourney {
+    width: 400px;
+    height: 300px;
+    border: 2px solid #291200;
+    padding: 5px;
+    margin: 10px;
+}
